@@ -1,0 +1,6 @@
+.venv/
+.venv
+.env
+/src/clasificador_paquetes/__pycache__/__init__.cpython-312.pyc
+contracts.cpython-312.pyc
+inference.cpython-312.pyc
